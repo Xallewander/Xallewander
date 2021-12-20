@@ -1,0 +1,84 @@
+
+body{
+background-color: white;
+}
+
+.myClass {
+  width= 250
+  color: green
+  font-family: Lato, Calibri;
+}
+
+
+.myClass2 {
+   cursor: crosshair;
+}
+
+p {
+  font-size:14pt;
+}
+
+h { 
+text-align: center;
+}
+
+div {
+    background-color: lightblue;
+    width: 600px;
+    /*border: 20px solid purple;*/
+    margin-left: 650px;
+    margin-right: 725px;
+   /* position: absolut;
+    bottom: 0;
+    left: ; */
+text-align:bottom;
+}
+
+li {
+  padding-bottom: 5px;
+text-align: center;
+  text-align: left;
+  font-size:10pt;
+}
+
+h1 {
+text-align: center;
+  color: yellow;
+  padding-top: 100px;
+    padding-left: 25px;
+}
+
+h2 {
+  padding-top: 50px;
+text-align: center;
+}
+
+h3 {
+text-align: center;
+color : green;
+font-size:24
+}
+
+.myClass1 {
+  font-size: 16pt;
+
+div {
+    background-color: darkblue;
+    width: 600px;
+text-align:bottom;
+}
+}
+
+h5 {
+text-align: center;
+color: green;
+Font-size: 16pt;
+Background-color: orange;
+}
+
+h6 {
+text-align: center;
+color: green;
+Font-size: 16pt;
+}
+}
